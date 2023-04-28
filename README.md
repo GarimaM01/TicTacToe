@@ -1,6 +1,7 @@
 # Tic Tac Toe Game
 
 1. Consist of two folders.
-    - First Folder contains GUI game with many features.
-    - Second Folder contains basic implementation of TIC-TAC-TOE Game.
-
+    - First Folder (**TicTacToeGame**) contains GUI game with two features like :-
+            * Play game One-on-One.
+            * Play game with Computer.
+    - Second Folder (**tictactoe**) contains basic implementation of TIC-TAC-TOE Game.
