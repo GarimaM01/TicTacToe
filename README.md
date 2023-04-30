@@ -11,7 +11,7 @@
              
             ![HumanVsHuman(Player2Win)](https://user-images.githubusercontent.com/99480752/235335103-9e8c0589-f167-49ce-b8e9-e36ada74d91b.jpg)
 
-            1. Human Vs Human (Player Tie)  
+            3. Human Vs Human (Player Tie)  
                       
             ![HumanVsHuman(Tie)](https://user-images.githubusercontent.com/99480752/235335238-f77d702a-e836-442b-ac62-08446fef64f7.jpg)
 
