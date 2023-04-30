@@ -17,4 +17,8 @@
 
 
          -  ###   :robot:   ***Play game with Computer.***
+            1. Human Vs Computer (Human Wins)  
+               
+            ![HumanVsComputer(HumanWin)](https://user-images.githubusercontent.com/99480752/235335300-c3b7fb62-1fb4-46d6-801a-762d2a202c96.jpg)
+
     - Second Folder (**tictactoe**) contains basic implementation of TIC-TAC-TOE Game.
