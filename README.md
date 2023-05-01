@@ -3,7 +3,7 @@
 1. Consist of two folders.
     - First Folder (**TicTacToeGame**) contains GUI game with two features like :- 
          - ###   :stuck_out_tongue_winking_eye:   **Main Screen.**          
-         - ###   :muscle:   **Play game One-on-One.**                
+         - ###   :ok_man:   :ok_man:  **Play game One-on-One.**                
             1. Human Vs Human (Player 1 Wins)  
                       
             ![HumanVsHuman(Player1Win)](https://user-images.githubusercontent.com/99480752/235289941-f39c0492-03ad-46c5-a908-c470adc1cb0d.jpg)
