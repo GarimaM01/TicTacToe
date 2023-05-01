@@ -1,7 +1,8 @@
 # Tic Tac Toe Game
 
 1. Consist of two folders.
-    - First Folder (**TicTacToeGame**) contains GUI game with two features like :-            
+    - First Folder (**TicTacToeGame**) contains GUI game with two features like :- 
+         - ###   :stuck_out_tongue_winking_eye:   **Main Screen.**          
          - ###   :muscle:   ***Play game One-on-One.***                
             1. Human Vs Human (Player 1 Wins)  
                       
