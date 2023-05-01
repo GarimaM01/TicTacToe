@@ -35,3 +35,5 @@
             
 
     - Second Folder (**tictactoe**) contains basic implementation of TIC-TAC-TOE Game.
+
+2. At first folder Player get options either play with his friend or challenge himself with computer. While second folder contains simple game between two player, also     it is basic implementation of game than the first folder.
