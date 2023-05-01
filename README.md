@@ -17,7 +17,7 @@
             ![HumanVsHuman(Tie)](https://user-images.githubusercontent.com/99480752/235335238-f77d702a-e836-442b-ac62-08446fef64f7.jpg)
 
 
-         -  ###   :robot:   ***Play game with Computer.***
+         -  ###   :technologist:   ***Play game with Computer.***
             1. Human Vs Computer (Human Wins)  
                
             ![HumanVsComputer(HumanWin)](https://user-images.githubusercontent.com/99480752/235335300-c3b7fb62-1fb4-46d6-801a-762d2a202c96.jpg)
