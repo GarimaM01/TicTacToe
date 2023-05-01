@@ -25,7 +25,9 @@
             
             ![HumanVsComputer(ComputerWin)](https://user-images.githubusercontent.com/99480752/235417698-83f648f7-8f47-485f-9c80-503925c38c44.jpg)
             
-
+            2. Human Vs Computer (Tie)
+            
+            ![HumanVsComputer(Tie)](https://user-images.githubusercontent.com/99480752/235417790-fd0a713b-2777-4b67-a125-c6eeced93a7c.jpg)
             
 
     - Second Folder (**tictactoe**) contains basic implementation of TIC-TAC-TOE Game.
