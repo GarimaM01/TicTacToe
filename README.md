@@ -4,10 +4,10 @@
     - First Folder (**TicTacToeGame**) contains GUI game with two features like :- 
          - ###   :stuck_out_tongue_winking_eye:   **Main Screen.**  
              
-             ![HomeScreen](https://user-images.githubusercontent.com/99480752/235418932-da1ff104-84ac-4b06-bcf9-bd685a89adfd.jpg)
+             ![HomeScreen](https://user-images.githubusercontent.com/99480752/235418932-da1ff104-84ac-4b06-bcf9-bd685a89adfd.jpg width="33%" )
         
          - ###   :ok_man:   :ok_man:  **Play game One-on-One.**
-            | Human Vs Human (Player 1 Wins)      | Human Vs Human (Player 2 Wins)      | Human Vs Human (Player Tie)                 |
+            | 1.    Human Vs Human (Player 1 Wins)| 2.  Human Vs Human (Player 2 Wins)  | 3.    Human Vs Human (Player Tie)           |
             | ----------------------------------- | ----------------------------------- | ------------------------------------------- |
             |![HumanVsHuman(Player1Win)](https://user-images.githubusercontent.com/99480752/235289941-f39c0492-03ad-46c5-a908-c470adc1cb0d.jpg) | ![HumanVsHuman(Player2Win)](https://user-images.githubusercontent.com/99480752/235335103-9e8c0589-f167-49ce-b8e9-e36ada74d91b.jpg) | ![HumanVsHuman(Tie)](https://user-images.githubusercontent.com/99480752/235335238-f77d702a-e836-442b-ac62-08446fef64f7.jpg) |
 
