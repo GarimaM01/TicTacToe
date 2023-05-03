@@ -24,10 +24,3 @@
            |![XturnWin](https://user-images.githubusercontent.com/99480752/235891076-735f81e3-5734-4250-aa8e-fdbf2d1a1d04.jpg) | ![OturnWin](https://user-images.githubusercontent.com/99480752/235891366-cca5da68-b516-4621-ac2e-21cdd1a9fa03.jpg) | ![Tie](https://user-images.githubusercontent.com/99480752/235891403-dcb71a75-2fc6-4e63-9bf7-fc57ed5c3e9e.jpg) |
 
 2. At first folder Player get options either play with his friend or challenge himself with computer. While second folder contains simple game between two player, also    it is basic implementation of game than the first folder.
-    -   Player1 Vs Player2 (X Wins)
-            <p float="left">
-              <img src="https://user-images.githubusercontent.com/99480752/235635869-9bc975f4-b266-45c9-8327-fc5b850b075f.jpg" width="33%" />
-              <img src="https://user-images.githubusercontent.com/99480752/235635920-93c0ebea-702b-445a-a915-479dbceab8bc.jpg" width="33%" />
-            </p>
-
-          
