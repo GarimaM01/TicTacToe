@@ -4,7 +4,7 @@
     - First Folder (**TicTacToeGame**) contains GUI game with two features like :- 
          - ###   :stuck_out_tongue_winking_eye:   **Main Screen.**  
              
-             ![HomeScreen](https://user-images.githubusercontent.com/99480752/235418932-da1ff104-84ac-4b06-bcf9-bd685a89adfd.jpg width="33%" )
+             ![HomeScreen](https://user-images.githubusercontent.com/99480752/235418932-da1ff104-84ac-4b06-bcf9-bd685a89adfd.jpg)
         
          - ###   :ok_man:   :ok_man:  **Play game One-on-One.**
             | 1.    Human Vs Human (Player 1 Wins)| 2.  Human Vs Human (Player 2 Wins)  | 3.    Human Vs Human (Player Tie)           |
@@ -13,6 +13,9 @@
 
 
          -  ###   :technologist:   **Play game with Computer.**
+            | 1.    Human Vs Computer (Human Wins)   | 2.  Human Vs Computer (Computer Wins)  | 3.   Human Vs Computer (Tie)           |
+            | -------------------------------------- | -------------------------------------- | -------------------------------------- |
+            |![HumanVsComputer(HumanWin)](https://user-images.githubusercontent.com/99480752/235335300-c3b7fb62-1fb4-46d6-801a-762d2a202c96.jpg) | ![HumanVsComputer(ComputerWin)](https://user-images.githubusercontent.com/99480752/235417698-83f648f7-8f47-485f-9c80-503925c38c44.jpg) | ![HumanVsComputer(Tie)](https://user-images.githubusercontent.com/99480752/235417790-fd0a713b-2777-4b67-a125-c6eeced93a7c.jpg) |
             1. Human Vs Computer (Human Wins)  
                
             ![HumanVsComputer(HumanWin)](https://user-images.githubusercontent.com/99480752/235335300-c3b7fb62-1fb4-46d6-801a-762d2a202c96.jpg)
